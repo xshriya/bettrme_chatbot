@@ -1,0 +1,12 @@
+# Ignore the virtual environment
+venv/
+*.venv
+
+# Ignore our secret keys
+.streamlit/secrets.toml
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+contact_logs.txt
