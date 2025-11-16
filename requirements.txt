@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-google-genai
+chromadb
+requests
+gspread
+huggingface_hub
+langchain-community
+tiktoken
+langchain-text-splitters
+unstructured
+langchain-chroma
+langchain-core
